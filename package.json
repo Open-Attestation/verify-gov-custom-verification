@@ -50,6 +50,8 @@
     "generator-nod"
   ],
   "dependencies": {
+    "@govtechsg/oa-verify": "4.2.1",
+    "@govtechsg/open-attestation": "4.0.0",
     "debug": "4.1.1"
   },
   "devDependencies": {
