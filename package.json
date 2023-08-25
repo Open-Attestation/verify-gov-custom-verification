@@ -52,7 +52,7 @@
   "dependencies": {
     "@govtechsg/oa-verify": "4.2.1",
     "@govtechsg/open-attestation": "4.0.0",
-    "debug": "4.1.1"
+    "debug": "4.3.4"
   },
   "devDependencies": {
     "@babel/cli": "7.8.4",
